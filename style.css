@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('Fonts/font.css');
+ 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('Backgroud/grain\ Texture.png');
+    font-family: 'Beatrice', sans-serif, Helvetica;
+}
+
+section {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+
+header {
+    height: 50px;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+ul {
+    width: 330px;
+    font-weight: 600;
+    font-size: 1rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.icones-nav {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icones-texto {
+    width: 76px;
+    height: 50px;
+    position: relative;
+    margin-right: 42px;
+    
+
+    color: white;
+    background-color: black;
+    border-radius: 1.5rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+
+.icones-texto > span {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    left: 90%;
+}
+
+.input-pesquisar {
+    max-width: 370px;
+    height: 50px;
+    background-color: #bbbbbb7d;
+    border-radius: 5px;
+    
+    display: flex;
+    align-items: center;
+
+    margin-top: 7rem;
+}
+
+.input-pesquisar > img {
+    padding: 1rem;
+}
+
+.input-pesquisar > input {
+    width: 290px;
+    height: 30px;
+    background-color: transparent;
+    border: none;
+    text-align: right;
+}
+
+.input-pesquisar > input::placeholder{
+    color: rgba(0, 0, 0, 0.664);
+}
+
+.input-pesquisar > input:focus-visible {
+    outline: none;
+}
+
+section > h1 {
+    width: 338px;
+
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 40px;
+
+    margin-top: 5rem;
+}
+
+section > p {
+    width: 87px;
+
+    font-size: 1rem;
+    font-weight: 400;
+    
+    margin-top: 0.5rem;
+}
+
+.botoes-inicio {
+    width: 1200px;
+    margin-top: 12rem;
+    height: 40px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.botao-shop {
+    width: 265px;
+    height: 40px;
+    background-color: #bbbbbb7d;
+    border: none;
+    border-radius: 5px;
+
+    font-size: 16px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0px 20px;
+}
+
+.botao-voltar {
+    width: 40px;
+    height: 40px;
+
+    background-color: transparent;
+    border-color: #bbbbbb7d;
+    
+}
+
+.botao-avancar {
+    width: 40px;
+    height: 40px;
+
+    background-color: transparent;
+    border-color: #bbbbbb7d;
+    
+}
+
+.imagens-inicio {
+    height: 376px;
+}
