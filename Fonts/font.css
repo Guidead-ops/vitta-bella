@@ -2,29 +2,8 @@
     @font-face {
     font-family: 'Beatrice';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 200;
     src: local('Beatrice Deck Trial Regular'), url('BeatriceDeckTRIAL-Regular-BF64829e8e41476.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Beatrice Deck Trial Regular Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Regular Italic'), url('BeatriceDeckTRIAL-RegularItalic-BF64829e917f76b.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Beatrice Deck Trial Thin';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Thin'), url('BeatriceDeckTRIAL-Thin-BF64829e8e21d70.woff') format('woff');
-    }
-    
-    @font-face {
-    font-family: 'Beatrice Deck Trial Thin Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Thin Italic'), url('BeatriceDeckTRIAL-ThinItalic-BF64829e913b5ae.woff') format('woff');
     }
     
     @font-face {
@@ -34,62 +13,12 @@
     src: local('Beatrice Deck Trial Light'), url('BeatriceDeckTRIAL-Light-BF64829e8e6b5e8.woff') format('woff');
     }
 
-    @font-face {
-    font-family: 'Beatrice Deck Trial Light Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Light Italic'), url('BeatriceDeckTRIAL-LightItalic-BF64829e8e77d46.woff') format('woff');
-    }
-    
 
     @font-face {
     font-family: 'Beatrice';
     font-style: normal;
-    font-weight: 600;
+    font-weight: 400;
     src: local('Beatrice Deck Trial Medium'), url('BeatriceDeckTRIAL-Medium-BF64829e8e8d71a.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Beatrice Deck Trial Medium Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Medium Italic'), url('BeatriceDeckTRIAL-MediumItalic-BF64829e917eb6c.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Beatrice Deck Trial Semibold';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Semibold'), url('BeatriceDeckTRIAL-Semibold-BF64829e8dec396.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Beatrice Deck Trial Semibold Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Semibold Italic'), url('BeatriceDeckTRIAL-SemiboldItalic-BF64829e8e0e6b3.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Beatrice Deck Trial Bold';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Bold'), url('BeatriceDeckTRIAL-Bold-BF64829e8e9ca08.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Beatrice Trial Bold';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Trial Bold'), url('BeatriceTRIAL-Bold-BF64829e8b48b16.woff') format('woff');
-    }
-    
-
-    @font-face {
-    font-family: 'Beatrice Deck Trial Bold Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Bold Italic'), url('BeatriceDeckTRIAL-BoldItalic-BF64829e9186236.woff') format('woff');
     }
 
     @font-face {
@@ -97,12 +26,5 @@
     font-style: normal;
     font-weight: 800;
     src: local('Beatrice Deck Trial Extrabold'), url('BeatriceDeckTRIAL-Extrabold-BF64829e8ed31e6.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Beatrice Deck Trial Extrabold Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Beatrice Deck Trial Extrabold Italic'), url('BeatriceDeckTRIAL-ExtraboldItalic-BF64829e917393c.woff') format('woff');
     }
     
